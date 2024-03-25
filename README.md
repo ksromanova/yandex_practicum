@@ -2,7 +2,7 @@
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме "Специалист по Data Science".
 
-# Список проектов, реализованных в ходе обучения на курсе «Data Science» Яндекс-практикума.
+## Список проектов, реализованных в ходе обучения на курсе «Data Science» Яндекс-практикума.
 |Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|
 |[Разработка системы предупреждения аварий на каршеринге](./accident_risk_assessment.md "README.md")| Разработка системы предупреждения об аварии клиентам каршеринга.|[accident_risk_assessment.ipynb](./accident_risk_assessment/accident_risk_assessment.ipynb "notebook.ipynb") - SQL, Pandas, Scikit-learn, PostgreSQL, SQLAlchemy|

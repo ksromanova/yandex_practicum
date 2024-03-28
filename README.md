@@ -26,3 +26,16 @@
 |[Классификация клиентов телеком компании](./telecom_tariff_determonatiom/README.md "README.md") | На основе данных клиентов рекомендация тарифа.|[telecom_tariff_determonatiom.ipynb](./telecom_tariff_determonatiom/telecom_tariff_determonatiom.ipynb "notebook.ipynb") - python, pandas, sklearn, matplotlib|
 |[Классификация токсичных комментариев в соцсетях](./toxic_comments_search/README.md "README.md") | Классифицикация комментарии на позитивные и негативные на наборе данных с разметкой. | [toxic_comments_search.ipynb](./toxic_comments_search/toxic_comments_search.ipynb "notebook.ipynb") - python, pandas, numpy, scipy, matplotlib, pyplot, re, nltk, sklearn, spacy|
 |[Определение температуры выплавляемой на металлургическом заводе стали](./predicting_alloy_temperature/README.md "README.md")|Разрабротика системы предсказания температуры выплавляемой стали.|[predicting_alloy_temperature.ipynb](./predicting_alloy_temperature/predicting_alloy_temperature.ipynb "notebook.ipynb") - pandas, numpy, seaborn, matplotlib, skimpy, sklearn, scipy, re, lightgbm, catboost, xgbooste|
+
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>

@@ -8,4 +8,4 @@
 
 **Доработка проекта:** Рекомендуется исследовать подход, основанный на обучении на парах положительных и отрицательных примеров, где положительные пары состоят из запросов и соответствующих им изображений, а отрицательные пары выбираются случайно. Также возможны дополнительные методы обучения модели для улучшения качества сопоставления текстов и изображений.
 
-**Библиотеки:** keras, lightgbm, matplotlib, nltk, numpy, os, pandas, PIL, plotly, re, scipy, scikit-learn, spacy, tensorflow, torch, torchvision, transformers, tqdm, wordcloud, zipfile
+**Библиотеки:** keras, lightgbm, matplotlib, nltk, numpy, os, pandas, PIL, plotly, re, scipy, sklearn, spacy, tensorflow, torch, torchvision, transformers, tqdm, wordcloud, zipfile
